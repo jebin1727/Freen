@@ -1,0 +1,11 @@
+torch
+transformers
+accelerate
+qdrant-client
+speechrecognition
+pyttsx3
+openai
+ollama
+langchain
+pyaudio
+requests
