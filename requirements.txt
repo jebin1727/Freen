@@ -9,3 +9,6 @@ ollama
 langchain
 pyaudio
 requests
+python-dotenv
+gtts
+opencv-python
