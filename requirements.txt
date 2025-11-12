@@ -12,3 +12,4 @@ requests
 python-dotenv
 gtts
 opencv-python
+sentence-transformers
